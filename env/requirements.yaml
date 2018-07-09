@@ -19,3 +19,6 @@ dependencies:
 - name: bdd-test-spring-boot-web-1531177301
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.0
+- name: bdd-test-import-1531177301
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
