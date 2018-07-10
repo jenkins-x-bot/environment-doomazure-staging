@@ -37,3 +37,6 @@ dependencies:
 - name: bdd-test-spring-boot-rest-prometheus-1531177301
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: bdd-test-node-http-1531177301
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
